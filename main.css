@@ -1,0 +1,12 @@
+.main-div{
+    margin: 0 auto;
+    background-color: blue;
+    max-width: 300px;
+    min-height: 176px;
+    position: absolute;
+}
+.another-div{
+    background-color: lightskyblue;
+    margin: 25px;
+    vertical-align: middle;
+}
